@@ -7,7 +7,7 @@
 ╚═══════════════════════════════════════════╝
 ```
 
-Python · Cybersécurité · Réseau**
+Python · Cybersécurité · Réseau
 
 </div>
 
