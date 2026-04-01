@@ -15,7 +15,7 @@ Python · Cybersécurité · Réseau
 
 ```python
 profile = {
-    "langages"    : ["Python 🐍"],
+    "langages"    : ["Python 🐍", "JavaScript ⚡"],
     "domaines"    : ["Cybersécurité 🔐", "Réseau 🌐", "CTF"],
 }
 ```
@@ -32,9 +32,5 @@ profile = {
 
 
 <div align="center">
-
-*"The quieter you become, the more you can hear."* — Kali Linux
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TONPSEUDO.TONPSEUDO)
 
 </div>
